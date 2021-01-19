@@ -5,30 +5,30 @@
 There are lots of different datasets available for alcohol sales prediction. In this research, we have used the dataset which is provided by Iowa Department of Commerce, Alcoholic Beverages Division. Please find the link below:
 <a href="https://data.iowa.gov/Sales-Distribution/2019-Iowa-Liquor-Sales/38x4-vs5h">https://data.iowa.gov/Sales-Distribution/2019-Iowa-Liquor-Sales/38x4-vs5h</a>
 The dataset size is 549MB with 2.38M million rows and 24 columns. The columns of the datasets are as follows:
-<li>Invoice/Item Number: The unique invoice number.
-Date: The date of liquor purchased or sold. 
-Store Number: The store number of the liquor shop.
-Store Name: The store name of the liquor shop.
-Address: The store address of the liquor shop.
-City: City of the liquor shop.
-Zip Code: Zip code of the city.
-Store Location: Liquor store location. 
-County Number: The number of counties.
-County: The county of the liquor sold.
-Category: Category of the liquor.
-Category Name: Category name of the liquor.
-Vendor Number: Vendor number who sold the liquor.
-Vendor Name: Vendor name who sold the liquor.
-Item Number: Unique item number for liquor.
-Item Description: Liquor description.
-Pack: The pack sold out.
-Bottle Volume (ml): The volume of liquor bottles sold in a milliliter. 
-State Bottle Cost: The cost of the bottle at the state level. 
-State Bottle Retail: The cost of the bottle at the retail level.
-Bottles Sold: Number of bottles sold. 
-Sale (Dollars): Sales of liquors in dollars. 
-Volume Sold (Liters): Volume of liquor sold in liters. 
-Volume Sold (Gallons): Volume of liquor sold in gallons.</li>
+  <li>Invoice/Item Number: The unique invoice number.</li>
+  <li>Date: The date of liquor purchased or sold.</li>
+  <li>Store Number: The store number of the liquor shop.</li>
+  <li>Store Name: The store name of the liquor shop.</li>
+  <li>Address: The store address of the liquor shop.</li>
+  <li>City: City of the liquor shop.</li>
+  <li>Zip Code: Zip code of the city.</li>
+  <li>Store Location: Liquor store location.</li> 
+  <li>County Number: The number of counties.</li>
+  <li>County: The county of the liquor sold.</li>
+  <li>Category: Category of the liquor.</li>
+  <li>Category Name: Category name of the liquor.</li>
+  <li>Vendor Number: Vendor number who sold the liquor.</li>
+  <li>Vendor Name: Vendor name who sold the liquor.</li>
+  <li>Item Number: Unique item number for liquor.</li>
+  <li>Item Description: Liquor description.</li>
+  <li>Pack: The pack sold out.</li>
+  <li>Bottle Volume (ml): The volume of liquor bottles sold in a milliliter.</li>
+  <li>State Bottle Cost: The cost of the bottle at the state level. </li>
+  <li>State Bottle Retail: The cost of the bottle at the retail level.</li>
+  <li>Bottles Sold: Number of bottles sold.</li>
+  <li>Sale (Dollars): Sales of liquors in dollars.</li> 
+  <li>Volume Sold (Liters): Volume of liquor sold in liters.</li> 
+  <li>Volume Sold (Gallons): Volume of liquor sold in gallons.</li>
 
 
 2. Data Preprocessing
