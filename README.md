@@ -4,7 +4,9 @@ There has always been a need by the business owners to know the demand for their
 
 #### 2. Dataset Selection
 There are lots of different datasets available for alcohol sales prediction. In this research, we have used the dataset which is provided by Iowa Department of Commerce, Alcoholic Beverages Division. Please find the link below:
+
 <a href="https://data.iowa.gov/Sales-Distribution/2019-Iowa-Liquor-Sales/38x4-vs5h">https://data.iowa.gov/Sales-Distribution/2019-Iowa-Liquor-Sales/38x4-vs5h</a>
+
 The dataset size is 549MB with 2.38M million rows and 24 columns. The columns of the datasets are as follows:
   <li>Invoice/Item Number: The unique invoice number.</li>
   <li>Date: The date of liquor purchased or sold.</li>
