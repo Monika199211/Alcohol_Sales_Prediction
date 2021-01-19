@@ -51,7 +51,8 @@ As we are dealing with predicting the sales of alcohol which is a continuous var
 ##### <li> Mean Squared Error :
 Mean Squared Error is one of the most preferred metrics for regression tasks. It is simply the average of the squared difference between               the target value and the value predicted by the regression model. As it squares the differences, it penalizes even a small error which leads to over-estimation of how           bad the model is. It is preferred more than other metrics because it is differentiable and hence can be optimized better.</li>
         
-##### <li> Root Mean Squared Error: RMSE is the most widely used metric for regression tasks and is the square root of the averaged squared difference between the target          value and the value predicted by the model. It is preferred more in some cases because the errors are first squared before averaging which poses a high penalty on large         errors. This implies that RMSE is useful when large errors are undesired.</li>
+##### <li> Root Mean Squared Error: 
+RMSE is the most widely used metric for regression tasks and is the square root of the averaged squared difference between the target          value and the value predicted by the model. It is preferred more in some cases because the errors are first squared before averaging which poses a high penalty on large         errors. This implies that RMSE is useful when large errors are undesired.</li>
         
 ##### <li> Mean Absolute Error
 MAE is the absolute difference between the target value and the value predicted by the model. The MAE is more robust to outliers and does not penalize the errors as             extremely as MSE. MAE is a linear score which means all the individual differences are weighted equally. It is not suitable for applications where you want to pay more           attention to the outliers</li>.
