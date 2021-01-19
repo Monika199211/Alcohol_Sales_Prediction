@@ -1,6 +1,3 @@
-div.c {
-  text-align: justify;
-
 #### Alcohol_Sales_Prediction
 1.Introduction: There has always been a need by the business owners to know the demand for their products. This benefits the whole business model as it stockpiles the revenue. This improved model deals with the prediction of the consumption of different alcoholic beverages. Based on liquor sales data, various Machine Learning algorithms are applied for enhancing the accuracy of the prediction. The risk of entering a new market can also be minimized by using this model. It is built in a robust way that can be implemented around various fields for improved accuracy in prediction models. We will be using the open-source dataset which is provided by <b> Alcoholic Beverages Division of IOWA Department of Commerce for liquor sales prediction.</b>
 
@@ -63,8 +60,3 @@ Coefficient of Determination or R² is another metric used for evaluating the pe
         
 <li> Adjusted R²
 Adjusted R² depicts the same meaning as R² but is an improvement of it. R² suffers from the problem that the scores improve on increasing terms even though the model is         not improving which may misguide the researcher. Adjusted R² is always lower than R² as it adjusts for the increasing predictors and only shows improvement if there is a         real improvement. 
-
-        
-}
-
-        
